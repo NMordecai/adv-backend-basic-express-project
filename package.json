@@ -1,0 +1,18 @@
+{
+  "name": "adv-backend-basic-express-project",
+  "version": "1.0.0",
+  "description": "Basic Express.js server with routes, params, query, POST, and middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
